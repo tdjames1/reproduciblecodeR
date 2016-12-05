@@ -56,21 +56,7 @@ git config --global user.email "you@youremail.com"
 git config --global user.name "Your Name"
 ```
 
-On succesful completion, you should see no output from these commands.
-
-You can also configure git to use your preferred editor for commit messages, e.g. on a Mac:
-
-```
-git config --global core.editor nano
-```
-
-or on Windows:
-
-```
-git config --global core.editor notepad
-```
-
-It's a good idea to follow this step since the default editor selected by git is quite difficult to use!
+On successful completion, you should see no output from these commands.
 
 ### Sign up for an account on GitHub
 
